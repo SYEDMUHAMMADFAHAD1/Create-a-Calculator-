@@ -1,0 +1,23 @@
+{
+  "name": "coding-with-fahad-switch-casee-calculator",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "bin": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7",
+    "@types/node": "^20.11.30"
+  },
+  "dependencies": {
+    "coding-with-fahad-switch-casee-calculator": "^1.0.0",
+    "coding-with-fahad-simple-calculator": "^1.0.0",
+    "inquirer": "^9.2.16"
+  }
+}
